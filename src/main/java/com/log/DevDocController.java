@@ -7,6 +7,18 @@ import org.springframework.web.bind.annotation.RestController;
 public class DevDocController {
 @GetMapping(value="GetvalSt")
 public String Getof() {
-	return "My name is Jeeva";
+	return "Illai illai solla
+
+Oru kanam podhum
+
+Illai endru sollai
+
+Thanghuvathendraal
+
+Innum innum enakkor
+
+Jenmam vendum
+
+Enna solla pogiraai";
 }
 }
